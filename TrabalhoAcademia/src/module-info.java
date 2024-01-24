@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author shedler
- *
- */
-module TrabalhoAcademia {
-}
